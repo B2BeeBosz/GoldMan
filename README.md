@@ -4,7 +4,7 @@
 * NodeJS LTE 14.16.1
 
 ## Installation
-1. Access to directories
+1. Clone this repository and access to these directories
 * GM_Frontend
 ```
 cd GM_Frontend
@@ -30,3 +30,7 @@ npm run dev
 ```
 npm run build
 ```
+
+## Importing Database
+You can look at the manual below. How to import goldman_sample.db on phpMyAdmin.
+https://drive.google.com/file/d/1TS591A-TEturbb7Npjm4bbsEiBFw2rVK/view?usp=sharing
