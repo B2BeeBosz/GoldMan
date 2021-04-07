@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700;800&display=swap');
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('../fonts/DINPro.eot');
+    src: url('../fonts/DINPro.eot') format('embedded-opentype'),
+    url('../fonts/DINPro.woff2') format('woff2'),
+    url('../fonts/DINPro.woff') format('woff'),
+    url('../fonts/DINPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+html, body {
+    font-family: 'DINPro', 'Kanit', sans-serif;
+}
+  
+#app {
+    font-family: 'DINPro', 'Kanit', sans-serif;
+}

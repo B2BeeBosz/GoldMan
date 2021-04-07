@@ -1,0 +1,37 @@
+{
+  "name": "goldman-backend-new",
+  "version": "1.0.0",
+  "description": "Goldman Backend - Node.js Rest Apis with Express, Sequelize & MySQL.",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node apps.js",
+    "dev": "nodemon apps.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "b2beebosz",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "http-status": "^1.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "sequelize": "^6.3.5"
+  }
+}
