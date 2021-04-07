@@ -32,5 +32,5 @@ npm run build
 ```
 
 ## Importing Database
-You can look at the manual below. How to import goldman_sample.db on phpMyAdmin.
+You can look at the manual below. How to import goldman_sample.sql on phpMyAdmin.
 https://drive.google.com/file/d/1TS591A-TEturbb7Npjm4bbsEiBFw2rVK/view?usp=sharing
